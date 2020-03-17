@@ -1,8 +1,8 @@
-# Mixinpedia
+# MixinPedia
 陈健（著）&copy; 2020
 
 ---
-行
+
 ## 一.Mixin Network
 ![](https://mixin-assets-cn.zeromesh.net/mixin/attachments/1583135818-f7e145792405ec8519af6b47fffeb18b5750b19608db5985d8cc8aa019acd6e9)
 ## 二.Mixin Messenger
