@@ -4,7 +4,7 @@
 ---
 
 ## 一.Mixin Network
-![](https://mixin-assets-cn.zeromesh.net/mixin/attachments/1583135818-f7e145792405ec8519af6b47fffeb18b5750b19608db5985d8cc8aa019acd6e9)
+
 ## 二.Mixin Messenger
 > **以下Mxin Messenger简称MM**
 ### MM简介、下载以及基本操作
